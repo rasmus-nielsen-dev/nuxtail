@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# [Nuxt](https://nuxt.com/) 3 Minimal Starter - Including [Tailwind](https://tailwindcss.nuxtjs.org/)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
