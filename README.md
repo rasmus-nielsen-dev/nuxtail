@@ -6,7 +6,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 1. Get [git](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe) gud!
 2. Get [node.js](https://nodejs.org/en/download/current)
 3. Open command prompt
-4. git clone <span>https://github.com/rasmus-nielsen-dev/nuxtail</span>
+4. `git clone <span>https://github.com/rasmus-nielsen-dev/nuxtail</span>`
 5. cd nuxtail
 
 Make sure to install the dependencies:
